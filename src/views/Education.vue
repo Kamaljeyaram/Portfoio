@@ -17,7 +17,7 @@ import SectionHeader from '../components/SectionHeader.vue';
             <p class="institution">Sri Sairam Engineering College</p>
             <p class="duration">2022 - 2026</p>
           </div>
-          <p class="grade">CGPA: 8.03/10</p>
+          <p class="grade">CGPA: 8.04/10</p>
           <p class="description">
             Specializing in Internet of Things (IoT) with focus on embedded systems, 
             networking, and cloud integration for smart applications.
@@ -35,7 +35,7 @@ import SectionHeader from '../components/SectionHeader.vue';
             <p class="institution">Velammal Main School</p>
             <p class="duration">2022</p>
           </div>
-          <p class="grade">Percentage: 78.6%</p>
+          <p class="grade">Percentage: 89.16%</p>
           <p class="description">
             Completed higher secondary education with focus on Mathematics, Physics, and Computer Science.
           </p>
@@ -52,7 +52,7 @@ import SectionHeader from '../components/SectionHeader.vue';
             <p class="institution">MR School</p>
             <p class="duration">2020</p>
           </div>
-          <p class="grade">Percentage: 89.16%</p>
+          <p class="grade">Percentage: 78.6%</p>
           <p class="description">
             Completed secondary education with excellent academic performance.
           </p>
